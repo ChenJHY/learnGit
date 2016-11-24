@@ -10,5 +10,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
         System.out.println("´òÓ¡½á¹û");
+        logg.d("learn git one");
     }
 }
